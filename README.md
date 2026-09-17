@@ -22,7 +22,7 @@
 | **پارسا پلاست** | توسعه و بهینه‌سازی قالب وردپرس | [مشاهده ریپوزیتوری](https://github.com/Rashaweb/parsa-plast) |
 
 ### 🎮 پروژه‌های برنامه‌نویسی و بازی
-- **بازی شلم‌یا‌ر:** پیاده‌سازی بازی آنلاین/وب با **React.js**
+- **بازی یا‌ر:** پیاده‌سازی بازی آنلاین/وب با **React.js**
   - [مشاهده سورس‌کد و دمو](https://github.com/Rashaweb/shelem-yar)
 
 ---
@@ -31,19 +31,14 @@
 
 <p align="center">
   <!-- کارت آمار کلی -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Rashaweb&show_icons=true&theme=radial&hide_border=true" alt="Rashaweb Github Stats" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Rashaweb&show_icons=true&theme=radial&hide_border=true&count_private=true" alt="Rashaweb Github Stats" width="49%" />
 
   <!-- کارت زبان‌های برنامه‌نویسی پرکاربرد -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashaweb&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="49%" />
 </p>
 
-<!-- کارت تعداد روزهای متوالی فعالیت (Streak) -->
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashaweb&theme=radial&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 📫 ارتباط با من
-
+## 09113269223
 - **تیم راشاسافت:** جهت مشاوره و سفارش پروژه
