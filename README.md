@@ -26,7 +26,7 @@
 | :--- | :--- | :--- |
 | **کیان انرژی** | طراحی و پیاده‌سازی کامل سایت | [مشاهده ریپوزیتوری](https://github.com/Rashaweb/kian-energy) |
 | **میثمه پرآور** | طراحی سایت گالری هنری | [مشاهده ریپوزیتوری](https://github.com/Rashaweb/meysamehparavar) |
-| **پارسا پلاست** | توسعه و بهینه‌سازی قالب وردپرس | [مشاهده ریپوزیتوری](https://github.com/Rashaweb/parsa-plast) |
+| **پارسا پلاست** | توسعه و بهینه‌سازی قالب وردپرس | [مشاهده ریپوزیتوری](https://github.com/Rashaweb/parsapelast) |
 
 #### 🖼 پیش‌نمایش سایت میثمه پرآور
 ![صفحه اصلی سایت میثمه پرآور](https://raw.githubusercontent.com/Rashaweb/meysamehparavar/main/screenshots/home.webp)
