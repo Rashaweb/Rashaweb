@@ -30,3 +30,22 @@
 ## 📫 ارتباط با من
 
 - **تیم راشاسافت:** جهت مشاوره و سفارش پروژه
+
+
+---
+
+## 📊 آمار و فعالیت‌های من در گیت‌هاب
+
+<p align="center">
+  <!-- کارت آمار کلی -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Rashaweb&show_icons=true&theme=radial&hide_border=true" alt="Rashaweb Github Stats" width="49%" />
+
+  <!-- کارت زبان‌های برنامه‌نویسی پرکاربرد -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rashaweb&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="49%" />
+</p>
+
+<!-- کارت تعداد روزهای متوالی فعالیت (Streak) -->
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashaweb&theme=radial&hide_border=true" alt="GitHub Streak" />
+</p>
+```
