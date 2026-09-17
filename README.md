@@ -21,18 +21,11 @@
 | **میثمه پرآور** | طراحی سایت گالری هنری | [مشاهده ریپوزیتوری](https://github.com/Rashaweb/meysameh-paravar) |
 | **پارسا پلاست** | توسعه و بهینه‌سازی قالب وردپرس | [مشاهده ریپوزیتوری](https://github.com/Rashaweb/parsa-plast) |
 
-### 🎮 پروژه‌های برنامه نویسی و بازی
+### 🎮 پروژه‌های برنامه‌نویسی و بازی
 - **بازی شلم‌یا‌ر:** پیاده‌سازی بازی آنلاین/وب با **React.js**
   - [مشاهده سورس‌کد و دمو](https://github.com/Rashaweb/shelem-yar)
 
 ---
-
-## 📫 ارتباط با من
-
-- **تیم راشاسافت:** جهت مشاوره و سفارش پروژه
-```
-
-
 
 ## 📊 آمار و فعالیت‌های من در گیت‌هاب
 
@@ -48,4 +41,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rashaweb&theme=radial&hide_border=true" alt="GitHub Streak" />
 </p>
-```
+
+---
+
+## 📫 ارتباط با من
+
+- **تیم راشاسافت:** جهت مشاوره و سفارش پروژه
