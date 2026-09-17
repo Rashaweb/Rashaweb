@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👨‍💻 سلام، من توسعه‌دهنده وب و طراح سایت در راشاسافت هستم
 
-<!--
-**Rashaweb/Rashaweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+تخصص من توسعه سایت‌های وردپرسی سفارشی، پیاده‌سازی پروژه‌های فرانت‌اند و برنامه‌نویسی کاربردی است.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 مهارت‌ها و فناوری‌ها
+
+- **توسعه وب:** WordPress | Elementor | HTML5 / CSS3 | JavaScript | React.js
+- **برنامه‌نویسی Backend & Scripting:** Python
+- **مدیریت کد و پروژه:** Git / GitHub
+
+---
+
+## 🚀 نمونه‌کارها و پروژه‌ها
+
+### 🌐 پروژه‌های وردپرس و طراحی وب
+| نام پروژه | توضیحات / نقش | لینک مشاهده |
+| :--- | :--- | :--- |
+| **کیان انرژی** | طراحی و پیاده‌سازی کامل سایت | [مشاهده ریپوزیتوری](https://github.com/Rashaweb/kian-energy) |
+| **میثمه پرآور** | طراحی سایت گالری هنری | [مشاهده ریپوزیتوری](https://github.com/Rashaweb/meysameh-paravar) |
+| **پارسا پلاست** | توسعه و بهینه‌سازی قالب وردپرس | [مشاهده ریپوزیتوری](https://github.com/Rashaweb/parsa-plast) |
+
+### 🎮 پروژه‌های برنامه نویسی و بازی
+- **بازی شلم‌یا‌ر:** پیاده‌سازی بازی آنلاین/وب با **React.js**
+  - [مشاهده سورس‌کد و دمو](https://github.com/Rashaweb/shelem-yar)
+
+---
+
+## 📫 ارتباط با من
+
+- **تیم راشاسافت:** جهت مشاوره و سفارش پروژه
