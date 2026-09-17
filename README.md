@@ -9,6 +9,13 @@
 - **توسعه وب:** WordPress | Elementor | HTML5 / CSS3 | JavaScript | React.js
 - **برنامه‌نویسی Backend & Scripting:** Python
 - **مدیریت کد و پروژه:** Git / GitHub
+---
+
+## 🛠 مهارت‌ها و فناوری‌ها
+
+- **توسعه وب:** WordPress | Elementor | HTML5 / CSS3 | JavaScript | React.js
+- **برنامه‌نویسی Backend & Scripting:** Python
+- **مدیریت کد و پروژه:** Git / GitHub
 
 ---
 
@@ -18,11 +25,11 @@
 | نام پروژه | توضیحات / نقش | لینک مشاهده |
 | :--- | :--- | :--- |
 | **کیان انرژی** | طراحی و پیاده‌سازی کامل سایت | [مشاهده ریپوزیتوری](https://github.com/Rashaweb/kian-energy) |
-| **میثمه پرآور** | طراحی سایت گالری هنری | [مشاهده ریپوزیتوری](https://github.com/Rashaweb/meysameh-paravar) |
+| **میثمه پرآور** | طراحی سایت گالری هنری | [مشاهده ریپوزیتوری](https://github.com/Rashaweb/meysamehparavar) |
 | **پارسا پلاست** | توسعه و بهینه‌سازی قالب وردپرس | [مشاهده ریپوزیتوری](https://github.com/Rashaweb/parsa-plast) |
 
 #### 🖼 پیش‌نمایش سایت میثمه پرآور
-![صفحه اصلی سایت میثمه پرآور](https://raw.githubusercontent.com/Rashaweb/meysameh-paravar/main/screenshots/home.webp)
+![صفحه اصلی سایت میثمه پرآور](https://raw.githubusercontent.com/Rashaweb/meysamehparavar/main/screenshots/home.webp)
 
 ---
 
@@ -31,6 +38,7 @@
   - [مشاهده سورس‌کد و دمو](https://github.com/Rashaweb/shelem-yar)
 
 ---
+
 
 ## 📊 آمار و فعالیت‌های من در گیت‌هاب
 
