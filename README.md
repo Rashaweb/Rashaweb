@@ -21,8 +21,13 @@
 | **میثمه پرآور** | طراحی سایت گالری هنری | [مشاهده ریپوزیتوری](https://github.com/Rashaweb/meysameh-paravar) |
 | **پارسا پلاست** | توسعه و بهینه‌سازی قالب وردپرس | [مشاهده ریپوزیتوری](https://github.com/Rashaweb/parsa-plast) |
 
+#### 🖼 پیش‌نمایش سایت میثمه پرآور
+![صفحه اصلی سایت میثمه پرآور](https://raw.githubusercontent.com/Rashaweb/meysameh-paravar/main/screenshots/home.webp)
+
+---
+
 ### 🎮 پروژه‌های برنامه‌نویسی و بازی
-- **بازی یا‌ر:** پیاده‌سازی بازی آنلاین/وب با **React.js**
+- **بازی شلم‌یا‌ر:** پیاده‌سازی بازی آنلاین/وب با **React.js**
   - [مشاهده سورس‌کد و دمو](https://github.com/Rashaweb/shelem-yar)
 
 ---
